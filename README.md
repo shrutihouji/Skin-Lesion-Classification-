@@ -4,7 +4,7 @@
 •	Trained a neural network model using MONAI Pytorch for cancer diagnosis leveraging AWS cloud infrastructure.
 
 
-** Pytorch model consists of files like:
+** Pytorch model consist of files like:
 monai_skin_cancer.ipynb
 monai_skin_cancer.py
 set.env
